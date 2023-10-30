@@ -1,0 +1,8 @@
+# Ignore files ending with tmp
+*tmp
+
+# Ignore directories named __pycache__
+__pycache__/
+
+# Ignore directories named .pytest_cache
+.pytest_cache/
