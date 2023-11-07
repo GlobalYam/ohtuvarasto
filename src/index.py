@@ -1,5 +1,7 @@
 from varasto import Varasto
 
+# tämä on aivan liian pitkä rivi    AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
 
 def print_alkutila(mehua, olutta):
     print("Luonnin jälkeen:")
